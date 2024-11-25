@@ -15,3 +15,8 @@ All **Data Modeling** was made using **SQL Language**, including the table creat
 
 >[!NOTE]
 > It's **only possible to implement this tool** if there is a Data Base Scheduler working togheter. In this was used the **Oracle Data Integrator (ODI)** .
+
+## Data Monitoring Flow
+It's the flow of information into de process of Data Monitoring. It covers also the whole process of creation of data and what information is uploaded at report in **Power BI**.
+![Data Monitoring](https://github.com/user-attachments/assets/fb38a43c-8cfd-4a07-aed2-dd1985c2c8b2)
+
